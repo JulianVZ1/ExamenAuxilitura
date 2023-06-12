@@ -1,0 +1,46 @@
+* {
+   margin: 0;
+   padding: 100;
+   box-sizing: border-box;
+   font-family: sans-serif;
+}
+
+.body{
+   padding: 100px;
+}
+.banner {
+   background-image: url("../img/tms.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   height: 100vh;
+}
+
+.menu {
+   display: flex;
+   padding-top: 80px;
+   list-style: none;
+   background: transparent;
+   width: 90%;
+   color: white;
+   justify-content: right;
+   align-items: normal;
+   text-align: right;
+  border-spacing: 40px;
+
+
+}
+
+.imagenes {
+   padding-left: 150px;
+   padding-top: 80px;
+}
+
+table{
+   padding-left: 150px;
+   color: grey;
+}
+p{
+   padding-left: 150px;
+   color: white;
+}
